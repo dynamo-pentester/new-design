@@ -1,0 +1,55 @@
+RISHIKESH R  
+rishikesh091105@gmail.com  |  +91-8870564369  |  linkedin.com/in/rishikesh -r-196b5a290   |  github.com/dynamo -pentester   | 
+rishikesh -r.vercel.app  
+EXECUT IVE SUMMARY   
+Security -focused CSE student with strengths in  offensive testing, system internals, and low -level analysis , building  detection 
+systems and secure backend pipelines . 
+TECHNICAL SKILLS  
+Kernel & Systems:  C/C++, Linux Kernel Modules (LKM), kpro bes, Netlink, Syscall Internals , Socket Programming  
+Security:  VAPT, OWASP Top 10, Network Pentesting, Digital Forensics, Log Analysis & Network Traffic Analysis  
+Tools : Burp Suite, Metasploit, Nmap, Wireshark, SQLmap, Volatility  
+Core CS:  Operating Systems, Computer Networks, Data Structures & Algorithms, OOP, Cryptography  
+Backend & Data:  Python, FastAPI, Flask, REST APIs, PostgreSQL, MongoDB  
+Platforms & Infrastructure:  Linux (Ubuntu, Kali), Docker, Git/GitHub, VMware, Windows  
+EXPERIENCE  
+Alcatel -Lucent Enterprise (ALE India Pvt.  Ltd. ) [GitHub]                                                                         Bangalore, India  
+Software Development Intern                                                                                                                                    July 2025 – Aug 2025  
+ Built a FastAPI -based log analysis platform  to ingest, parse, and visualize AOS switch and HMON datasets, enabling TSEs 
+to perform efficient log analysis and anomaly investigation  across  10K+ log entries  by module, timestamp, and case.  
+ Developed log ingestion pipelines  to automate extraction from nested TAR archives, parse multi -file switch logs using regex 
+into structured JSON, and generate Plotly -based dashboards  for CPU, memory, and fan telemetry.  
+PROJECTS  
+SENTINEL -X — Cross -Platform Kernel Integrity Monitor                                                                               Sep 2025 – Present  
+Kernel Engineering • Distributed Systems • Security  
+• Built a  cross -platform kernel -level rootkit detection system  using Linux LKM and Windows KMDF drivers , detecting 
+SCT/ SSDT  hooks, DKOM process hiding, LKM concealment, and CR0/LSTAR manipulation  on a live Ubuntu VM.  
+• Unified kernel –userspace bridge (auto OS -detect) feeds anomaly events through Ed25519 signing, AES -GCM encryption, 
+Merkle batching, and Solidity/Web3.py blockchain anchoring  for tamper -proof forensic audit trails.  
+• Tech: C (Linux LKM / Windows KMDF), Python, SQLite, kprobes, Netlink, Merkle Trees, Web3.py, Solidity  
+ 
+SecureSplit — Distributed Secure Media Storage [GitHub ]                                                                           Sep 2024  – Oct 2024  
+Security Engineering  • Cryptography • Distributed Storage  
+• Implemented a two-share visual cryptography system  — original images are XOR -split into a local encrypted noise share  and 
+a key noise share uploaded to IPFS (Pinata) , ensuring neither share alone reveals any informatio n about the original.  
+• Tech: Python, FastAPI, IPFS (Pinata), NumPy, Cryptographic Key Separation  
+ 
+MatCare — Real -Time IoT Maternal Health Platform [GitHub ]                                                                  Jan 2025 – May 2025  
+Security Engineer ing • IoT Systems • Applied ML  
+• Built a dual -channel real -time health monitoring backend  ingesting 5 vitals from ESP32 sensors via Blynk APIs for both mother 
+and newborn, with a Random Forest classifier  for health -state prediction, a PDF/DOCX clinical repor t parser  extracting 
+amniotic fluid levels and gestational data, and Ethereum Sepolia blockchain  registration of patient identities via smart contract.  
+• Tech: Python (Flask), PostgreSQL, Blynk APIs, Scikit -learn, Web3.py, Solidity, pdfplumber, ESP32  
+EDUCATIO N 
+Ramco Institute of Technology                                                                                                                                   Tamil Nadu, India  
+B.E. Computer Science  and Engineering | CGPA: 7.91                                                                                             Oct 2023 – May 2027  
+CERTIFICATIONS  
+- Cisco Junior Cybersecurity Analyst  – Cisco Networking Academy   
+- Certified AppSec Practitioner  (CAP)  & Certified Network Security Practitioner  (CNSP ) – The SecOps Group  
+- Ubuntu Linux Professional  - Canonical  
+- Microsoft Security Essentials (MSEP)  - Microsoft  
+- Software Engineer Professional  - HackerR ank 
+-  
+ACHIEVEMENTS  
+- IndiaSkills Southern Regionals 2026  (Cyber Security)  — Medallion of Excellence  
+- Apoorv CTF 2026  — Rank 44 Worldwide  
+- TryHackMe  — Top 5% Global  Ranking  
